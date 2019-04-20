@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha4] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha4.aar/8d6a0155160f555ad8e2a8bdb2631eb2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha04.aar/9107342b88d12e16e87d884e49066902/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha04.aar/94aa3a84993eac51d6f43170f78ef863/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/090aba1e5f5738bfc99429b18995d83a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha06.aar/71264458f6709c51844eeec34d0bdf4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9fb1cb60128dc01ba38493d9d049c434/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c12d9682029eb2026d2f6b842cf4deeb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/796b0b9ba88ec67fd45ba42ee225306f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha04.aar/2b70a536d4da58f7402ac352ecab03e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/10104238ab138c68abcac02b646e90d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha06] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha06.aar/f77d31da0a3e3d019697c6754d8d98fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-alpha01.aar/b950459dab235767408a9339074f792e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/6ee40fa6b091696dfcbec15288ff2047/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/f86acd323a380ffcf6f69518c2abb9cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c79fe208623c09ea37e2156e4007fd43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/3d0802356c0859b7d05d6a2592d5c29c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/be2cc838075ff3020eece52b7dccca5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/0811f5a2b7b8e158e5a9c3798f0eca9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/c7e3c9a0347557928829a70320d7b7a0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/1cf707027bfef929200e34684ae19a5b/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha04.aar/4302e18edc5e1bd2f8181c74fc533aaa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha04.aar/2680936bfcd29aec2a92f5aa1872b212/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:3:11-52
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha4] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha4.aar/8d6a0155160f555ad8e2a8bdb2631eb2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha4] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha4.aar/8d6a0155160f555ad8e2a8bdb2631eb2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/c7e3c9a0347557928829a70320d7b7a0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/c7e3c9a0347557928829a70320d7b7a0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/1cf707027bfef929200e34684ae19a5b/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/1cf707027bfef929200e34684ae19a5b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/c7e3c9a0347557928829a70320d7b7a0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.juckrit.test_kotlin.Activity.MainActivity
+ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.juckrit.test_kotlin.Activity.ProductsActivity
+ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml:19:19-60
+uses-sdk
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha4] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha4.aar/8d6a0155160f555ad8e2a8bdb2631eb2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha4] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha4.aar/8d6a0155160f555ad8e2a8bdb2631eb2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha04.aar/9107342b88d12e16e87d884e49066902/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha04.aar/9107342b88d12e16e87d884e49066902/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha04.aar/94aa3a84993eac51d6f43170f78ef863/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha04.aar/94aa3a84993eac51d6f43170f78ef863/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/090aba1e5f5738bfc99429b18995d83a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/090aba1e5f5738bfc99429b18995d83a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha06.aar/71264458f6709c51844eeec34d0bdf4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha06.aar/71264458f6709c51844eeec34d0bdf4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9fb1cb60128dc01ba38493d9d049c434/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9fb1cb60128dc01ba38493d9d049c434/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c12d9682029eb2026d2f6b842cf4deeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c12d9682029eb2026d2f6b842cf4deeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/796b0b9ba88ec67fd45ba42ee225306f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/796b0b9ba88ec67fd45ba42ee225306f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha04.aar/2b70a536d4da58f7402ac352ecab03e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha04.aar/2b70a536d4da58f7402ac352ecab03e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/10104238ab138c68abcac02b646e90d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/10104238ab138c68abcac02b646e90d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha06] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha06.aar/f77d31da0a3e3d019697c6754d8d98fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha06] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha06.aar/f77d31da0a3e3d019697c6754d8d98fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-alpha01.aar/b950459dab235767408a9339074f792e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-alpha01.aar/b950459dab235767408a9339074f792e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/6ee40fa6b091696dfcbec15288ff2047/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/6ee40fa6b091696dfcbec15288ff2047/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/f86acd323a380ffcf6f69518c2abb9cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/f86acd323a380ffcf6f69518c2abb9cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c79fe208623c09ea37e2156e4007fd43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c79fe208623c09ea37e2156e4007fd43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/3d0802356c0859b7d05d6a2592d5c29c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/3d0802356c0859b7d05d6a2592d5c29c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/be2cc838075ff3020eece52b7dccca5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/be2cc838075ff3020eece52b7dccca5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/0811f5a2b7b8e158e5a9c3798f0eca9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/0811f5a2b7b8e158e5a9c3798f0eca9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/c7e3c9a0347557928829a70320d7b7a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/c7e3c9a0347557928829a70320d7b7a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/1cf707027bfef929200e34684ae19a5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/1cf707027bfef929200e34684ae19a5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha04.aar/4302e18edc5e1bd2f8181c74fc533aaa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha04.aar/4302e18edc5e1bd2f8181c74fc533aaa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha04.aar/2680936bfcd29aec2a92f5aa1872b212/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] /Users/juckrit/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha04.aar/2680936bfcd29aec2a92f5aa1872b212/AndroidManifest.xml:20:5-44
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/juckrit/Downloads/test_kotlin/app/src/main/AndroidManifest.xml
